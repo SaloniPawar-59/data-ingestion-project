@@ -1,4 +1,2 @@
 Connecting to RDS instance
 Data uploaded to RDS.
-Connecting to RDS instance
-Data uploaded to RDS.
